@@ -1,0 +1,53 @@
+{
+    "emperors": [
+      {
+        "name": "Babur",
+        "url": "#babur",
+        "reign": "1526–1530",
+        "birth_year": 1483,
+        "death_year": 1530,
+        "description": "Babur was the founder of the Mughal Empire in India. He was a military commander and a poet who wrote his memoirs in Persian, the Baburnama."
+      },
+      {
+        "name": "Humayun",
+        "url": "#humayun",
+        "reign": "1530–1540, 1555–1556",
+        "birth_year": 1508,
+        "death_year": 1556,
+        "description": "Humayun was the second Mughal emperor who succeeded his father Babur. He faced several rebellions and was defeated by Sher Shah Suri, who established the Sur Empire in India. However, he was able to reclaim his throne with the help of the Safavid dynasty in Iran."
+      },
+      {
+        "name": "Akbar",
+        "url": "#akbar",
+        "reign": "1556–1605",
+        "birth_year": 1542,
+        "death_year": 1605,
+        "description": "Akbar was one of the greatest Mughal emperors who expanded the empire and introduced several administrative and cultural reforms. He promoted religious tolerance and abolished the jizya tax on non-Muslims."
+      },
+      {
+        "name": "Jahangir",
+        "url": "#jahangir",
+        "reign": "1605–1627",
+        "birth_year": 1569,
+        "death_year": 1627,
+        "description": "Jahangir was the fourth Mughal emperor who ruled during the golden age of the empire. He was a patron of the arts and sciences and encouraged trade with Europe. He also had a tumultuous relationship with his son Shah Jahan."
+      },
+      {
+        "name": "Shah Jahan",
+        "url": "#shahjahan",
+        "reign": "1628–1658",
+        "birth_year": 1592,
+        "death_year": 1666,
+        "description": "Shah Jahan was the fifth Mughal emperor who is famous for building the Taj Mahal in memory of his wife Mumtaz Mahal. He also built several other monuments and was a patron of the arts. He was deposed by his son Aurangzeb in a power struggle."
+      },
+      {
+        "name": "Aurangzeb",
+        "url": "#aurangzeb",
+        "reign": "1658–1707",
+        "birth_year": 1618,
+        "death_year": 1707,
+        "description": "Aurangzeb was the sixth Mughal emperor who is known for his religious intolerance and conservative policies. He expanded the empire to its greatest extent but faced several rebellions and wars. He also imprisoned his father Shah Jahan and executed his brother Dara Shikoh in a power struggle."
+      }
+    ]
+  }
+  

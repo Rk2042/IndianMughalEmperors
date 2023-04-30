@@ -1,0 +1,106 @@
+/* Global styles */
+
+body {
+    font-family: 'Georgia', serif;
+    font-size: 25px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://images.unsplash.com/photo-1616392714640-2535b31df0d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80');
+    background-size: cover;
+    }
+    
+
+
+h1, h2 {
+    margin: 60;
+    font-weight: 700;
+    font-style: normal;
+    color: #e9d8cf;
+    text-align: center;
+}
+
+p {
+    color: white;
+  }
+  
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #c5bab4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header styles */
+
+header {
+    background-color: #b45742;
+    border-bottom: 2px solid #d37150;
+    padding: 20px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+/* Main content styles */
+
+main {
+    max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.mughal-emperors {
+    margin-top: 40px;
+    text-align: center;
+  }
+
+section {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.history {
+    color: #9f3512;
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.history-desc {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #dec6ba;
+}
+
+/* Footer styles */
+
+footer {
+    background-color: #8e4d28;
+    border-top: 2px solid #A55336;
+    padding: 20px;
+    text-align: center;
+    color: #5C3D2E;
+    font-size: 14px;
+    font-style: italic;
+}
+
